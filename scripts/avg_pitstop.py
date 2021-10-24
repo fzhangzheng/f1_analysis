@@ -1,14 +1,5 @@
 import pandas as pd
 
-"""
-What was the average time each driver spent at the pit stop for any given race?
-
-Files needed:
--> races.csv
--> pit_stops.csv
-"""
-
-
 races_csv = "../data/races.csv"
 pit_stops_csv = "../data/pit_stops.csv"
 

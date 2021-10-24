@@ -401,7 +401,7 @@ driverId,driverRef_x,number_x,code_x,forename_x,surname_x,dob_x,nationality_x,ur
 449,ward,\N,WAR,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward,ward,\N,\N,Rodger,Ward,1921-01-10,American,http://en.wikipedia.org/wiki/Rodger_Ward
 450,vos,\N,DEV,Ernie,de Vos,1941-07-01,Dutch,http://en.wikipedia.org/wiki/Ernie_de_Vos,vos,\N,\N,Ernie,de Vos,1941-07-01,Dutch,http://en.wikipedia.org/wiki/Ernie_de_Vos
 451,dochnal,\N,DOC,Frank,Dochnal,1920-10-08,American,http://en.wikipedia.org/wiki/Frank_Dochnal,dochnal,\N,\N,Frank,Dochnal,1920-10-08,American,http://en.wikipedia.org/wiki/Frank_Dochnal
-452,monarch,\N,MON,Thomas,Monarch,1945-09-03,American,\\N,monarch,\N,\N,Thomas,Monarch,1945-09-03,American,\\N
+452,monarch,\N,MON,Thomas,Monarch,1945-09-03,American,\N,monarch,\N,\N,Thomas,Monarch,1945-09-03,American,\N
 453,lewis,\N,LEW,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis,lewis,\N,\N,Jackie,Lewis,1936-11-01,British,http://en.wikipedia.org/wiki/Jackie_Lewis
 454,ricardo_rodriguez,\N,ROD,Ricardo,Rodríguez,1942-02-14,Mexican,http://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(Formula_One),ricardo_rodriguez,\N,\N,Ricardo,Rodríguez,1942-02-14,Mexican,http://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(Formula_One)
 455,seidel,\N,SEI,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel,seidel,\N,\N,Wolfgang,Seidel,1926-07-04,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel
