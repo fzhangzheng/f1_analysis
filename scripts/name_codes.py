@@ -1,5 +1,9 @@
 import pandas as pd
 
+"""
+Insert the missing code (e.g: ALO for Alonso) for all drivers
+"""
+
 def getDriverCode(surname: str):
     return surname.replace(" ", "")[:3].upper()
 

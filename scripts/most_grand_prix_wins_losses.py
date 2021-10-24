@@ -1,5 +1,9 @@
 import pandas as pd
 
+"""
+Which driver has the most wins and which driver has the most losses for each Grand Prix?
+"""
+
 drivers_csv = "../data/drivers.csv"
 races_csv = "../data/races.csv"
 results_csv = "../data/results.csv"

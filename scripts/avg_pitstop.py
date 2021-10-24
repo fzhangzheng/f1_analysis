@@ -1,5 +1,9 @@
 import pandas as pd
 
+"""
+What was the average time each driver spent at the pit stop for any given race?
+"""
+
 races_csv = "../data/races.csv"
 pit_stops_csv = "../data/pit_stops.csv"
 

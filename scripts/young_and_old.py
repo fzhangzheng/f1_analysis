@@ -1,4 +1,7 @@
 import pandas as pd
+"""
+Select a season from the data and determine who was the youngest and oldest at the start of the season and the end of the season
+"""
 
 drivers_csv = "../data/drivers.csv"
 races_csv = "../data/races.csv"
