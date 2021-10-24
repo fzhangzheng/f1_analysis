@@ -1,6 +1,6 @@
 # f1_analysis
 
-Import `pandas`.
+Install `pandas` and its dependencies.
 
 Run scripts in `scripts`.
 
